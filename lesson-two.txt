@@ -1,0 +1,5 @@
+ls -a
+git init - initialize a git in directory
+git log - see commitements
+git status - view tracked files
+git add - to add to a staging area
